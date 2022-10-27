@@ -1,24 +1,20 @@
 {
-  "publisher": "antfu",
-  "name": "ext-name",
-  "displayName": "ext-name",
+  "publisher": "Seneca-CDOT",
+  "name": "vscode-seneca-college",
+  "displayName": "vscode-seneca-college",
   "version": "0.0.0",
   "private": true,
   "packageManager": "pnpm@7.8.0",
   "description": "",
-  "author": "Anthony Fu <anthonyfu117@hotmail.com>",
+  "author": "David Humphrey <david.humphrey@senecacollege.ca",
   "license": "MIT",
-  "funding": "https://github.com/sponsors/antfu",
-  "homepage": "https://github.com/antfu/ext-name#readme",
+  "homepage": "https://github.com/Seneca-CDOT/vscode-seneca-college#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/antfu/ext-name"
+    "url": "https://github.com/Seneca-CDOT/vscode-seneca-college"
   },
   "bugs": {
-    "url": "https://github.com/antfu/ext-name/issues"
-  },
-  "sponsor": {
-    "url": "https://github.com/sponsors/antfu"
+    "url": "https://github.com/Seneca-CDOT/vscode-seneca-college/issues"
   },
   "categories": [
     "Other"
