@@ -18,4 +18,4 @@ npm i
 
 ## Usage
 
-To see the application running type F5. A new window will pop up with a hello message.
+To see the application running type F5 with your keyboard in any file of the project. Just make sure your mouse is in any of files in the project. A new window will pop up with a hello message. You are now in debugging mode. You can debug the code to find out what it is doing with the step forward step inward step out of buttons. Or press the red square to exit debugging mode.
