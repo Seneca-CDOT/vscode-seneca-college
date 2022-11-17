@@ -5,3 +5,17 @@
 ## Overview
 
 A VSCode Extension for Seneca College devs.
+
+## Installation
+
+1. Install the dependencies:
+
+```
+npm i
+```
+
+2. cd to project folder
+
+## Usage
+
+To see the application running type F5. A new window will pop up with a hello message.
