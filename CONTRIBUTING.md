@@ -57,4 +57,4 @@ git push origin branch-name-here
 
 14. After your pull request is merged, celebrate your achievement!
 
-## THANK YOU FOR YOUR PARTICIPATION!
+THANK YOU FOR YOUR PARTICIPATION!
