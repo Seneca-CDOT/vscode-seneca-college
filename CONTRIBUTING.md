@@ -11,7 +11,7 @@ Here is a brief summary!
 
 1. Start by identifying an issue or a feature that you would want to add. Choose a issue from the issues tab that you would like to work on. Feel free to open a new issue in the project if it is not in the list of issues.
 
-2. In your local GitHub organization, Fork current repository to produce a personal copy of this project by clicking the "Fork" button in the upper right corner of your screen. If you leave the default settings, the repository `underyour-GitHub-username/repository-name` will now be appear under your profile.
+2. In your local GitHub organization, Fork current repository to produce a personal copy of this project by clicking the "Fork" button in the upper right corner of your screen. If you leave the default settings, the repository `underyour-GitHub-username/repository-name` should appear under your profile.
 
 3. Make a local copy of the repository using:
 
