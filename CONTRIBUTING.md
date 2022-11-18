@@ -2,11 +2,11 @@
 
 <br>
 
-## How can I contribute in vscode-seneca-college project?
+## How can I contribute to vscode-seneca-college project?
 
 <br>
 
-Never contributed to open source before? Are you curious in how contributions function in our project?
+Never contributed to open source before? Are you curious about how contributions function in our project?
 Here is a brief summary!
 
 <br>
@@ -17,11 +17,11 @@ Here is a brief summary!
 
 <br>
 
-1. Start by identifying an issue or a feature that you would want to add.
+1. Start by identifying an issue or a feature that you would want to add. Choose a issue from the issues tab that you would like to work on. Feel free to open a new issue in the project if it is not in the list of issues.
 
 <br>
 
-2. In your local GitHub organization, fork the repository linked to the problem. The repository `underyour-GitHub-username/repository-name` will now be accessible to you.
+2. In your local GitHub organization, Fork current repository to produce a personal copy of this project by clicking the "Fork" button in the upper right corner of your screen. If you leave the default settings, the repository `underyour-GitHub-username/repository-name` will now be appear under your profile.
 
 <br>
 
