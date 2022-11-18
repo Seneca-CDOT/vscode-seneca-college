@@ -8,14 +8,12 @@ A VSCode Extension for Seneca College devs.
 
 ## Installation
 
-1. Install the dependencies:
+Install the dependencies:
 
 ```
 npm i
 ```
 
-2. cd to project folder
-
 ## Usage
 
-To see the application running type F5 with your keyboard in any file of the project. Just make sure your mouse is in any of files in the project. A new window will pop up with a hello message. You are now in debugging mode. You can debug the code to find out what it is doing with the step forward step inward step out of buttons. Or press the red square to exit debugging mode.
+Make sure your mouse is in any project files, not in the terminal but on any line of code. Then to see the application running. Type F5 with your keyboard. A new window will pop up with a hello message. You are now in debugging mode. You can debug the code to find out what it is doing with the step forward, step inward, and step out of buttons. Or press the red square to exit debugging mode.
