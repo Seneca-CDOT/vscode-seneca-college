@@ -1,4 +1,8 @@
 # Learn more about this file at https://www.gitpod.io/docs/references/gitpod-yml
 tasks:
-  - init: pnpm install
-  command: pnpm nr build --watch
+  - name: Setup & Build
+    init: pnpm install
+    command: pnpm nr build --watch
+    vscode:
+      extensions:
+          - amodio.tsl-problem-matcher
