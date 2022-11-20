@@ -6,7 +6,7 @@
       "$LINE_COMMENT Created on: $CURRENT_MONTH_NAME $CURRENT_DATE $CURRENT_YEAR",
       "$LINE_COMMENT Student name: ${1:fullname}",
       "$LINE_COMMENT Student email: ${2:email}@myseneca.ca",
-      "$LINE_COMMENT Class: ${3:classname}",
+      "$LINE_COMMENT Course: ${3:coursename}",
       "$LINE_COMMENT Section: ${4:section}"
     ],
     "description": "Place file header with student info"
