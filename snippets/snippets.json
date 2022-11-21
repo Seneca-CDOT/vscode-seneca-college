@@ -1,0 +1,14 @@
+{
+  "Student File Header Template": {
+    "prefix": "!fhead",
+    "body": [
+      "$LINE_COMMENT $RELATIVE_FILEPATH",
+      "$LINE_COMMENT Created on: $CURRENT_MONTH_NAME $CURRENT_DATE $CURRENT_YEAR",
+      "$LINE_COMMENT Student name: ${1:fullname}",
+      "$LINE_COMMENT Student email: ${2:email}@myseneca.ca",
+      "$LINE_COMMENT Course: ${3:coursename}",
+      "$LINE_COMMENT Section: ${4:section}"
+    ],
+    "description": "Place file header with student info"
+  }
+}

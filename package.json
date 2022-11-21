@@ -17,6 +17,7 @@
     "url": "https://github.com/Seneca-CDOT/vscode-seneca-college/issues"
   },
   "categories": [
+    "Snippets",
     "Other"
   ],
   "main": "./dist/index.js",
@@ -30,6 +31,42 @@
   "activationEvents": [
     "onStartupFinished"
   ],
+  "contributes": {
+    "snippets": [
+      {
+        "language": "javascript",
+        "path": "./snippets/snippets.json"
+      },
+      {
+        "language": "typescript",
+        "path": "./snippets/snippets.json"
+      },
+      {
+        "language": "c++",
+        "path": "./snippets/snippets.json"
+      },
+      {
+        "language": "c#",
+        "path": "./snippets/snippets.json"
+      },
+      {
+        "language": "java",
+        "path": "./snippets/snippets.json"
+      },
+      {
+        "language": "sql",
+        "path": "./snippets/snippets.json"
+      },
+      {
+        "language": "html",
+        "path": "./snippets/snippets.json"
+      },
+      {
+        "language": "css",
+        "path": "./snippets/snippets.json"
+      }
+    ]
+  },
   "scripts": {
     "build": "tsup src/index.ts --external vscode",
     "dev": "nr build --watch",
