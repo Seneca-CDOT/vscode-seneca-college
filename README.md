@@ -16,4 +16,4 @@ npm i
 
 ## Usage
 
-Make sure your mouse is in any project files, not in the terminal but on any line of code. Then to see the application running. Type F5 with your keyboard. A new window will pop up with a hello message. You are now in debugging mode. You can debug the code to find out what it is doing with the step forward, step inward, and step out of buttons. Or press the red square to exit debugging mode.
+Make sure your Text cursor is in Editor. Then to see the application running. Type F5 with your keyboard. A new window will pop up with a hello message. You are now in debugging mode. You can debug the code to find out what it is doing with the step forward, step inward, and step out of buttons. Or press the red square to exit debugging mode.
