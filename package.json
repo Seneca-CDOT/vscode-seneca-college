@@ -93,8 +93,5 @@
     "vite": "^3.0.4",
     "vitest": "^0.21.0",
     "vsce": "^2.10.0"
-  },
-  "dependencies": {
-    "ms": "^3.0.0-canary.1"
   }
 }
