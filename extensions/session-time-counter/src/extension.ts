@@ -1,5 +1,7 @@
 import * as vscode from "vscode";
 
+import ms = require("ms");
+
 export function activate(context: vscode.ExtensionContext) {
   let sessionTime = 0;
   let lastWindowFocus = Date.now();
@@ -21,7 +23,7 @@ export function activate(context: vscode.ExtensionContext) {
 
   const interval = setInterval(() => {
     updateSesstionTime();
-    currentSessionTimeItem.text = (sessionTime / 1000).toFixed(0) + " seconds";
+    currentSessionTimeItem.text = ms(sessionTime);
   }, 1000);
 
   const onFocusChange = vscode.window.onDidChangeWindowState((e) => {
