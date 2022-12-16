@@ -1,6 +1,6 @@
 import * as vscode from "vscode";
 
-import ms = require("ms");
+import ms from "ms";
 
 export function activate(context: vscode.ExtensionContext) {
   let sessionTime = 0;
