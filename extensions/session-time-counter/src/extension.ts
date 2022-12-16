@@ -1,6 +1,6 @@
 import * as vscode from "vscode";
 
-import ms from "ms";
+import ms, { StringValue } from "ms";
 
 export function activate(context: vscode.ExtensionContext) {
   let sessionTime = 0;
@@ -23,7 +23,9 @@ export function activate(context: vscode.ExtensionContext) {
 
   const interval = setInterval(() => {
     updateSesstionTime();
-    currentSessionTimeItem.text = ms(sessionTime);
+    currentSessionTimeItem.text = ms(sessionTime, {
+      long: true,
+    }) as StringValue;
   }, 1000);
 
   const onFocusChange = vscode.window.onDidChangeWindowState((e) => {
